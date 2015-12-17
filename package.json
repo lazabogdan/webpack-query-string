@@ -1,0 +1,29 @@
+{
+  "name": "webpack-query-string",
+  "version": "1.0.0",
+  "description": "Simple helper for creating query string parameters compatible with webpack loaders query syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lazabogdan",
+  "license": "ISC",
+  "dependencies": {
+    "mout": "^0.11.1",
+    "qs": "^6.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazabogdan/webpack-query-string.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-query-string",
+    "webpack-loader-options"
+  ],
+  "bugs": {
+    "url": "https://github.com/lazabogdan/webpack-query-string/issues"
+  },
+  "homepage": "https://github.com/lazabogdan/webpack-query-string#readme"
+}
